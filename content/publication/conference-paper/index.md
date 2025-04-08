@@ -1,23 +1,20 @@
 ---
-title: 'An example conference paper'
+title: 'Navigating Trust: The Interplay of Trust in Automation and Team Communication in an Extended Simulated Military Mission'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Aaron Necaise
+  - Stephen M. Fiore
+  - Mary Jean Amon
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2024-08-29T00:00:00Z'
+doi: '10.1177/10711813241262991'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-08-29T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,16 +22,14 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *HFES- Proceedings of the Human Factors and Ergonomics Society Annual Meeting *
+publication_short: In *HFES*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Trust in automation and team communication are crucial factors in human-agent teaming. While research has examined how trust in automation and team dynamics impact performance separately, less is known about how they combine to influence team dynamics. This study investigated how team speech dynamics are related to trust in automation, team perceptions, and workload in the context of a longitudinal multi-participant computer simulated military mission using active-duty military personnel. Results showed that participants with lower trust in automation spoke more than their teammates with higher trust in automation, even after controlling for perceptions of team trust, cooperation, workload, role on the team, and team performance. A common finding in the team literature is that more team communication and more trust in automation are, separately, better for team performance. Thus, this research is an initial step toward demonstrating how automation alters the team dynamics typically considered essential to their success.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  - human-autonomy teams, trust, team dynamics
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,14 +39,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
+url_pdf: 'https://journals.sagepub.com/doi/10.1177/10711813241262991'
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

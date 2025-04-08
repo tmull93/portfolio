@@ -1,29 +1,27 @@
 ---
-title: "An example preprint / working paper"
+title: "Preprint: A Cognitive Efficiency Approach to Assessing Workload-Performance Trade-offs in Human-Autonomy Teams"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+- Stephen M. Fiore
+date: "2025-07-26T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-04-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "In AHFE- Proceedings of Applied Human Factors and Ergonomics Conference"
+publication_short: "In AHFE"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: Team environments increasingly integrate autonomous technologies to reduce workload and enhance performance. However, traditional metrics may overlook indirect benefits, particularly cognitive efficiency—the balance between workload and performance. This study examined how autonomous decision support systems (ADSS) affected cognitive efficiency and team communication in a high-fidelity simulated combat environment. Twenty-eight military personnel completed ten missions, alternating between conditions with and without ADSS that provided task-switching cues and flexible task allocation. Results showed that missions using ADSS produced higher cognitive efficiency, indicating improved performance relative to workload, though benefits varied by role and team. Teams also demonstrated enhanced communication patterns with ADSS, using more insight-related language, and maintaining a more positive tone. These findings highlight cognitive efficiency as a valuable metric for evaluating autonomy in complex environments and reveal how autonomous systems can enhance team effectiveness through improved team processes.
 
 tags:
-- Large Language Models
+- human-autonomy teams, team workload, cognitive load, cognitive efficiency, team dynamics
 
 featured: true
 
@@ -46,26 +44,8 @@ image:
   focal_point: ""
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

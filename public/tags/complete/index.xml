@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Complete | T&#39;kara Mullins</title>
+    <link>http://localhost:1313/tags/complete/</link>
+      <atom:link href="http://localhost:1313/tags/complete/index.xml" rel="self" type="application/rss+xml" />
+    <description>Complete</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Complete</title>
+      <link>http://localhost:1313/tags/complete/</link>
+    </image>
+    
+    <item>
+      <title>Stigmatized Identities Online</title>
+      <link>http://localhost:1313/project/tiktok/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tiktok/</guid>
+      <description>&lt;figure style=&#34;text-align: center; margin: 0 auto;&#34;&gt;
+  &lt;img src=&#34;rqa_example.png&#34; alt=&#34;RQA Example&#34; style=&#34;max-width: 100%; height: auto;&#34;&gt;
+  &lt;figcaption style=&#34;margin-top: 0.5em; font-style: italic;&#34;&gt;
+    These recurrence plots show how patterns of coordination unfolded differently over time for two participants.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p style=&#34;text-indent: 2em;&#34;&gt; This project looked into how people share hidden, stigmatized aspects of themselves and others on social media platforms. These concealable stigmatized identities (CSIs) are increasingly being revealed online, but we know surprisingly little about what this content looks like or how others respond to it—especially when comparing self-disclosure versus disclosing someone else&#39;s identity, or when dealing with conditions that carry different levels of social stigma.&lt;/p&gt;
+&lt;p&gt;To tackle these questions, we collected a dataset with 2,042 TikTok videos and their 111,705 comments from popular mental health hashtags (#clinicaldepression, #depression, and #schizophrenia). We manually coded each video for disclosure types while using natural language processing to analyze comment sentiment, then built mixed-effects regression models to uncover key patterns.&lt;/p&gt;
+&lt;p&gt;Our findings revealed some fascinating dynamics. People were much more likely to disclose their own CSI when posting under less stigmatized hashtags (like #depression) compared to more stigmatized ones (like #schizophrenia). Conversely, when videos appeared under more stigmatized hashtags, they were more likely to contain disclosures about other people&amp;rsquo;s conditions rather than self-disclosures.&lt;/p&gt;
+&lt;p&gt;We also discovered a &amp;ldquo;contagion effect&amp;rdquo; in the comments—if an original video disclosed someone else&amp;rsquo;s CSI, commenters were more likely to follow suit by revealing others&amp;rsquo; conditions too.&lt;/p&gt;
+&lt;p&gt;The feedback patterns were equally revealing. While mental health content generally received positive responses, videos containing any form of disclosure got significantly more positive feedback than those without disclosures. However, there&amp;rsquo;s an important distinction: posts where people revealed their own CSIs received more positive feedback than those disclosing someone else&amp;rsquo;s condition.&lt;/p&gt;
+&lt;p&gt;This work has important implications for understanding privacy boundaries in social media spaces, especially regarding sensitive health information that affects multiple people. We&amp;rsquo;re exploring what these findings mean for both individual disclosure decisions and the broader landscape of &amp;ldquo;interdependent privacy&amp;rdquo; in digital spaces.&lt;/p&gt;
+&lt;p&gt;This project was accepted to computer supported cooperative work (CSCW) and will be available online in 2025!&lt;/p&gt;
+&lt;div style=&#34;margin-top: 2em; text-align: center; font-size: 1.1em;&#34;&gt;
+  &lt;strong&gt;Interested in collaborating or learning more about concealable stigmatized identities?&lt;/strong&gt;&lt;br&gt;
+  &lt;a href=&#34;mailto:tkara.mullin@ucf.edu&#34;&gt;Reach out via email&lt;/a&gt; or 
+  &lt;a href=&#34;https://www.linkedin.com/in/tkara-mullins/&#34;&gt;connect with me on Linkedin&lt;/a&gt;.
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
