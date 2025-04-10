@@ -18,6 +18,7 @@ role: Graduate Research Scholar
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Cogitive Science Laboratory
+    url: https://csl.ist.ucf.edu/
   - name: Modeling and Simulation
     url: https://www.ucf.edu/modeling-simulation/
   - name: University of Central Florida
@@ -58,11 +59,6 @@ education:
     date_start: 2022-08-01
     date_end: 2025-05-01
     summary: |
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: MA Applied/Experimental Psychology
     institution: University of West Florida
     date_start: 2015-08-01
@@ -79,29 +75,29 @@ education:
       - Junior Excellency
 
             
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+# work:
+#  - position: Director of Cloud Infrastructure
+#    company_name: GenCoin
+#    company_url: ''
+#    company_logo: ''
+#    date_start: 2021-01-01
+#    date_end: ''
+#    summary: |2-
+#      Responsibilities include:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#  - position: Backend Software Engineer
+#    company_name: X
+#    company_url: ''
+#    company_logo: ''
+#    date_start: 2016-01-01
+#    date_end: 2020-12-31
+#    summary: |
+#      Responsibilities include:
+#      - Migrated infrastructure to a new data center
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -164,7 +160,7 @@ awards:
 
 ## About Me
 
-I am an interdisciplinary cognitive scientist focused on modeling, predicting, and enhancing human-computer interaction within complex team environments. Under the mentorship of Dr. Mary Jean Amon and Dr. Stephen Fiore, my research draws on nonlinear dynamical systems theory—particularly recurrence-based methods—to investigate how coordination unfolds over time and how it shapes individual and collective outcomes, including perceptions, mental states, and performance.
+I am an interdisciplinary psychologist focused on modeling, predicting, and enhancing human-computer interaction within complex team environments. Under the mentorship of Dr. Mary Jean Amon and Dr. Stephen Fiore, my research draws on nonlinear dynamical systems theory—particularly recurrence-based methods—to investigate how coordination unfolds over time to shape individual and collective outcomes, including perceptions, mental states, and performance.
 
-This page provides an overview of my recent work. Use the links at the top to explore my projects, publications, and more in greater detail. 
+This page provides an overview of my recent work. Use the links at the top to explore my projects, publications, and philosophies in greater detail. 
 

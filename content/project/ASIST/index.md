@@ -1,6 +1,6 @@
 ---
 title: ASIST
-summary: Flocking and stuff 
+summary: How does having an AI teamwork advisor impact the way teams coordinate?
 date: 2023-10-24
 type: docs
 math: false
@@ -8,17 +8,7 @@ tags:
   - active
 ---
 
-<figure style="text-align: center; margin: 0 auto;">
-  <img src="rqa_example.png" alt="RQA Example" style="max-width: 100%; height: auto;">
-  <figcaption style="margin-top: 0.5em; font-style: italic;">
-    These recurrence plots show how patterns of coordination unfolded differently over time for two participants.
-  </figcaption>
-</figure>
-
-For this project, 
-
-This project is currently under review for publication and we are hoping to share it in 2025! 
-
+**More details coming soon.**
 
 <div style="margin-top: 2em; text-align: center; font-size: 1.1em;">
   <strong>Interested in collaborating or learning more about entropy?</strong><br>

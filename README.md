@@ -50,3 +50,11 @@ We're an open source movement that depends on your support to stay online and th
 - [Version 5.0 (February 2021)](https://hugoblox.com/blog/version-5.0-february-2021/)
 - [Version 5.0 Beta 3 (February 2021)](https://hugoblox.com/blog/version-5.0-beta-3-february-2021/)
 <!--END_SECTION:news-->
+
+
+## How to start
+
+- Open Power shell
+- Type in `hugo server -D`
+- Press enter
+- At the bottom it will tell you the URL

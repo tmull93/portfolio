@@ -1,19 +1,12 @@
 ---
-title: Stigmatized Identities Online
-summary: DOing something
+title: Interdependent Privacy on TikTok
+summary: How do people discuss other people's private information online? 
 date: 2023-10-24
 type: docs
 math: false
 tags:
   - complete
 ---
-
-<figure style="text-align: center; margin: 0 auto;">
-  <img src="rqa_example.png" alt="RQA Example" style="max-width: 100%; height: auto;">
-  <figcaption style="margin-top: 0.5em; font-style: italic;">
-    These recurrence plots show how patterns of coordination unfolded differently over time for two participants.
-  </figcaption>
-</figure>
 
 <p style="text-indent: 2em;"> This project looked into how people share hidden, stigmatized aspects of themselves and others on social media platforms. These concealable stigmatized identities (CSIs) are increasingly being revealed online, but we know surprisingly little about what this content looks like or how others respond to it—especially when comparing self-disclosure versus disclosing someone else's identity, or when dealing with conditions that carry different levels of social stigma.</p>
 
@@ -31,7 +24,7 @@ This project was accepted to computer supported cooperative work (CSCW) and will
 
 
 <div style="margin-top: 2em; text-align: center; font-size: 1.1em;">
-  <strong>Interested in collaborating or learning more about concealable stigmatized identities?</strong><br>
+  <strong>Interested in collaborating?</strong><br>
   <a href="mailto:tkara.mullin@ucf.edu">Reach out via email</a> or 
   <a href="https://www.linkedin.com/in/tkara-mullins/">connect with me on Linkedin</a>.
 </div>

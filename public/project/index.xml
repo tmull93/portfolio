@@ -17,14 +17,7 @@
       <link>http://localhost:1313/project/asist/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/asist/</guid>
-      <description>&lt;figure style=&#34;text-align: center; margin: 0 auto;&#34;&gt;
-  &lt;img src=&#34;rqa_example.png&#34; alt=&#34;RQA Example&#34; style=&#34;max-width: 100%; height: auto;&#34;&gt;
-  &lt;figcaption style=&#34;margin-top: 0.5em; font-style: italic;&#34;&gt;
-    These recurrence plots show how patterns of coordination unfolded differently over time for two participants.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;For this project,&lt;/p&gt;
-&lt;p&gt;This project is currently under review for publication and we are hoping to share it in 2025!&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;More details coming soon.&lt;/strong&gt;&lt;/p&gt;
 &lt;div style=&#34;margin-top: 2em; text-align: center; font-size: 1.1em;&#34;&gt;
   &lt;strong&gt;Interested in collaborating or learning more about entropy?&lt;/strong&gt;&lt;br&gt;
   &lt;a href=&#34;mailto:tkara.mullin@ucf.edu&#34;&gt;Reach out via email&lt;/a&gt; or 
@@ -34,18 +27,12 @@
     
     <item>
       <title>Coordination in Esports</title>
-      <link>http://localhost:1313/project/pandas/</link>
+      <link>http://localhost:1313/project/esports/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;figure style=&#34;text-align: center; margin: 0 auto;&#34;&gt;
-  &lt;img src=&#34;rqa_example.png&#34; alt=&#34;RQA Example&#34; style=&#34;max-width: 100%; height: auto;&#34;&gt;
-  &lt;figcaption style=&#34;margin-top: 0.5em; font-style: italic;&#34;&gt;
-    Image generated with ChatGPT 2025.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;The most popular competitive games are team-based, where winning depends on combining individual skill with collective decision-making. While esports has grown into a global phenomenon with major prize pools and huge audiences, we still don&amp;rsquo;t fully understand the science behind successful teamwork in this space. What makes a successful esports team? Why doesn&amp;rsquo;t a team of experts make an expert team? I think the difference is in how these teams coordinate - or work together to win.&lt;/p&gt;
+      <guid>http://localhost:1313/project/esports/</guid>
+      <description>&lt;p&gt;The most popular competitive games are team-based, where winning depends on combining individual skill with collective decision-making. While esports has grown into a global phenomenon with major prize pools and huge audiences, we still don&amp;rsquo;t fully understand the science behind successful teamwork in this space. What makes a successful esports team? Why doesn&amp;rsquo;t a team of experts make an expert team?&lt;/p&gt;
 &lt;p&gt;To tackle this question, I&amp;rsquo;m applying established team science frameworks to examine how coordination works in esports. This approach helps connect team composition and structure to processes like communication and shared understanding, and ultimately to performance outcomes. I&amp;rsquo;m specifically interested in how teams function as units. By studying coordination mechanisms—how teams communicate, synchronize, and adapt during matches—I hope to identify patterns that distinguish successful teams.&lt;/p&gt;
-&lt;p&gt;For this project, I plan to collect multiple streams of real-time data—including physiological measures, game logs, behavioral observations, and team communications—to monitor coordination as it happens. I&amp;rsquo;m partnering with digital twin faculty to develop systems that can process these diverse data streams simultaneously and detect anomalies that might signal coordination breakdowns or teamwork issues. This multi-method approach should give us unprecedented insight into the moment-by-moment dynamics of team performance.&lt;/p&gt;
+&lt;p&gt;For this project, I plan to collect multiple streams of real-time data—including physiological measures, game logs, behavioral observations, and team communications—to monitor coordination as it happens. I&amp;rsquo;m partnering with faculty at UCF to leverage the power of &lt;strong&gt;digital twins&lt;/strong&gt; to develop systems that can process these diverse data streams simultaneously and detect anomalies that might signal coordination breakdowns or teamwork issues. This multi-method approach should give us unprecedented insight into the moment-by-moment dynamics of team performance.&lt;/p&gt;
 &lt;p&gt;The goal is to bridge theory and practice, potentially developing ways to recognize coordination patterns and improve coaching approaches. This work could help us understand what separates championship teams from the rest, with implications that might extend beyond esports to other fields where teamwork matters.&lt;/p&gt;
 &lt;p&gt;This project is just getting started so check back in or reach out for updates!&lt;/p&gt;
 &lt;div style=&#34;margin-top: 2em; text-align: center; font-size: 1.1em;&#34;&gt;
@@ -56,67 +43,68 @@
     </item>
     
     <item>
-      <title>Human-Autonomy Teaming</title>
-      <link>http://localhost:1313/project/pytorch/</link>
+      <title>Human-Autonomy Teaming and Cognition</title>
+      <link>http://localhost:1313/project/arl_cog/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;figure style=&#34;text-align: center; margin: 0 auto;&#34;&gt;
-  &lt;img src=&#34;rqa_example.png&#34; alt=&#34;RQA Example&#34; style=&#34;max-width: 100%; height: auto;&#34;&gt;
-  &lt;figcaption style=&#34;margin-top: 0.5em; font-style: italic;&#34;&gt;
-    These recurrence plots show how patterns of coordination unfolded differently over time for two participants.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p style=&#34;text-indent: 2em;&#34;&gt; Team environments increasingly integrate autonomous technologies to reduce workload and enhance performance. However, traditional metrics may overlook indirect benefits, particularly cognitive efficiency—the balance between workload and performance. This study examined how autonomous decision support systems (ADSS) affected cognitive efficiency and team communication in a high-fidelity simulated combat environment. Twenty-eight military personnel completed ten missions, alternating between conditions with and without ADSS that provided task-switching cues and flexible task allocation. Results showed that missions using ADSS produced higher cognitive efficiency, indicating improved performance relative to workload, though benefits varied by role and team. Teams also demonstrated enhanced communication patterns with ADSS, using more insight-related language, and maintaining a more positive tone. These findings highlight cognitive efficiency as a valuable metric for evaluating autonomy in complex environments and reveal how autonomous systems can enhance team effectiveness through improved team processes. &lt;/p&gt;
+      <guid>http://localhost:1313/project/arl_cog/</guid>
+      <description>&lt;p&gt;In this study, Dr. Fiore and I took a new approach to how we evaluate autonomous technology in team settings. While most assessments focus solely on workload reduction, we investigated the relationship between cognitive demands and collective performance.&lt;/p&gt;
+&lt;p&gt;We partnered with the U.S. Army at the &lt;a href=&#34;https://arl.devcom.army.mil/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DEVCOM Research Laboratory&lt;/a&gt; to study 28 military personnel during simulated combat missions, complete with a high-visual fidelity simulated environment, manned combat vehicles with real user interfaces (steering wheel, pedals, buttons, etc) and robotic combat vehicles. They completed missions both with and without an automated decision support system that provided task-switching cues and flexible task allocation capabilities to assist team coordination.&lt;/p&gt;
+&lt;p&gt;What makes our approach distinctive is the focus on cognitive efficiency—measuring whether performance gains justified the mental demands imposed by the technology. Instead of treating workload reduction as the primary goal, we examined how resources invested by team members translated into mission outcomes.&lt;/p&gt;
+&lt;p&gt;The results revealed something fascinating. Teams using the autonomous support achieved higher cognitive efficiency scores, indicating better performance relative to their mental workload. However, these benefits weren&amp;rsquo;t uniform—they varied significantly between different roles and groups.&lt;/p&gt;
+&lt;p&gt;Perhaps most revealing was what happened to team communication. With autonomous support, teams engaged in more thoughtful, insight-driven conversations and maintained a more positive emotional tone. This suggests the technology freed cognitive resources that team members redirected toward higher-level coordination.&lt;/p&gt;
+&lt;p&gt;This research opens new possibilities for designing and evaluating autonomous systems. By considering both workload and performance in relation to each other, we can create technology that truly enhances &lt;strong&gt;collective capabilities&lt;/strong&gt; rather than simply reducing individual burden.&lt;/p&gt;
 &lt;p&gt;This project was accepted for publication at AHFE and will be available online in July 2025!&lt;/p&gt;
-&lt;p style=&#34;text-indent: 2em;&#34;&gt; Trust in automation and team communication are crucial factors in human-agent teaming. While research has examined how trust in automation and team dynamics impact performance separately, less is known about how they combine to influence team dynamics. This study investigated how team speech dynamics are related to trust in automation, team perceptions, and workload in the context of a longitudinal multi-participant computer simulated military mission using active-duty military personnel. Results showed that participants with lower trust in automation spoke more than their teammates with higher trust in automation, even after controlling for perceptions of team trust, cooperation, workload, role on the team, and team performance. A common finding in the team literature is that more team communication and more trust in automation are, separately, better for team performance. Thus, this research is an initial step toward demonstrating how automation alters the team dynamics typically considered essential to their success. &lt;/p&gt;
-&lt;p&gt;This project was accepted for publication at HFES in 2024. It is available here.&lt;/p&gt;
 &lt;div style=&#34;margin-top: 2em; text-align: center; font-size: 1.1em;&#34;&gt;
-  &lt;strong&gt;Interested in collaborating or learning more these studies?&lt;/strong&gt;&lt;br&gt;
+  &lt;strong&gt;Interested in collaborating?&lt;/strong&gt;&lt;br&gt;
   &lt;a href=&#34;mailto:tkara.mullin@ucf.edu&#34;&gt;Reach out via email&lt;/a&gt; or 
   &lt;a href=&#34;https://www.linkedin.com/in/tkara-mullins/&#34;&gt;connect with me on Linkedin&lt;/a&gt;.
 &lt;/div&gt;</description>
     </item>
     
     <item>
-      <title>Isolated, Confined, and Extreme Teams- LUNAres</title>
-      <link>http://localhost:1313/project/lunares/</link>
+      <title>Human-Autonomy Teaming and Speech</title>
+      <link>http://localhost:1313/project/arl_voice/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/lunares/</guid>
-      <description>&lt;figure style=&#34;text-align: center; margin: 0 auto;&#34;&gt;
-  &lt;img src=&#34;rqa_example.png&#34; alt=&#34;RQA Example&#34; style=&#34;max-width: 100%; height: auto;&#34;&gt;
-  &lt;figcaption style=&#34;margin-top: 0.5em; font-style: italic;&#34;&gt;
-    These recurrence plots show how patterns of coordination unfolded differently over time for two participants.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;For this project, I partnered with &lt;a href=&#34;https://www.linkedin.com/in/andres-k%C3%A4osaar-322760b5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andres Käosaar&lt;/a&gt; to investigate how coordinated responses to challenges impacted stress for crew-members on a space analog mission.&lt;/p&gt;
-&lt;p&gt;This project is in pre-print for &lt;a href=&#34;https://www.ingroup.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INGRoup 2025&lt;/a&gt;! We will share the full print soon!&lt;/p&gt;
+      <guid>http://localhost:1313/project/arl_voice/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;More details coming soon.&lt;/strong&gt;&lt;/p&gt;
 &lt;div style=&#34;margin-top: 2em; text-align: center; font-size: 1.1em;&#34;&gt;
-  &lt;strong&gt;Interested in collaborating or learning more about entropy?&lt;/strong&gt;&lt;br&gt;
+  &lt;strong&gt;Interested in collaborating?&lt;/strong&gt;&lt;br&gt;
   &lt;a href=&#34;mailto:tkara.mullin@ucf.edu&#34;&gt;Reach out via email&lt;/a&gt; or 
   &lt;a href=&#34;https://www.linkedin.com/in/tkara-mullins/&#34;&gt;connect with me on Linkedin&lt;/a&gt;.
 &lt;/div&gt;</description>
     </item>
     
     <item>
-      <title>Isolated, Confined, and Extreme Teams- SampEn</title>
-      <link>http://localhost:1313/project/scikit/</link>
+      <title>Human-Autonomy Teaming and Trust</title>
+      <link>http://localhost:1313/project/arl_trust/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;figure style=&#34;text-align: center; margin: 0 auto;&#34;&gt;
-  &lt;img src=&#34;rqa_example.png&#34; alt=&#34;RQA Example&#34; style=&#34;max-width: 100%; height: auto;&#34;&gt;
-  &lt;figcaption style=&#34;margin-top: 0.5em; font-style: italic;&#34;&gt;
-    These recurrence plots show how patterns of coordination unfolded differently over time for two participants.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;For this project, I partnered with &lt;a href=&#34;https://www.linkedin.com/in/andres-k%C3%A4osaar-322760b5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andres Käosaar&lt;/a&gt; to explore how astronaut teams function under extreme conditions, specifically focusing on the emotional patterns that emerge during space missions and simulated space environments. This work addresses a critical challenge for future Mars missions, where NASA will rely on teams operating in isolated, confined, and extreme (ICE) conditions for extended periods.&lt;/p&gt;
-&lt;p&gt;While emotions clearly impact team performance, decision-making, creativity, and overall effectiveness, the tools we&amp;rsquo;ve been using to study them (particularly in ICE environments) have significant limitations. Traditional approaches to monitoring teamwork issues typically depend on self-reported surveys or ambiguous physiological markers, which often miss the dynamic nature of emotions.&lt;/p&gt;
-&lt;p&gt;That&amp;rsquo;s where nonlinear dyanamical systems theory comes in. We&amp;rsquo;ve applied Sample Entropy (SampEn), a technique that quantifies how predictable emotional patterns are over time. Unlike conventional methods that reduce complex emotional data to simple averages, SampEn preserves the natural fluctuations and temporal complexity of how feelings evolve within teams.&lt;/p&gt;
-&lt;p&gt;Our dataset is particularly robust. We collected emotional expression data from journal entries and communication recordings across four different space analog environments. This diversity allows us to draw more generalizable conclusions about how emotions function in extreme settings.&lt;/p&gt;
-&lt;p&gt;The study explores a fascinating tension: on one hand, more complex emotional patterns might indicate healthier team functioning, as adaptive systems typically show natural variability rather than rigid patterns. On the other hand, &amp;ldquo;psychological hibernation&amp;rdquo; (a flattening of emotional expression) might actually be beneficial in ICE environments specifically, serving as a coping mechanism for prolonged isolation.&lt;/p&gt;
-&lt;p&gt;This research represents the first application of SampEn to analyze emotional states in ICE teams, offering a more ecologically valid picture of how team members&amp;rsquo; feelings unfold and impact their collective functioning. By capturing these nonlinear dynamics, we&amp;rsquo;re revealing patterns that traditional analyses would likely miss—potentially transforming how we monitor and support astronaut teams on future missions to the Moon and Mars.&lt;/p&gt;
-&lt;p&gt;This project is still in progress, but we’re excited to share more soon—we’re aiming to submit the full paper in 2025!&lt;/p&gt;
+      <guid>http://localhost:1313/project/arl_trust/</guid>
+      <description>&lt;p&gt;While previous research typically treats team communication and trust in automation as separate factors that each positively impact performance, we wanted to understand how these crucial factors interact in complex operational environments.&lt;/p&gt;
+&lt;p&gt;Working with the U.S. Army&amp;rsquo;s &lt;a href=&#34;https://arl.devcom.army.mil/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DEVCOM Research Laboratory&lt;/a&gt;, we tracked how soldiers communicated during simulated combat missions while operating alongside autonomous systems. The unique longitudinal design allowed us to follow the same team through multiple missions, capturing how their communication patterns evolved in relation to their trust towards the autonomous systems they used.&lt;/p&gt;
+&lt;p&gt;The results revealed something fascinating and counterintuitive. Team members who reported lower trust in automation spoke significantly more than those with higher trust—even when controlling for factors like team trust, workload, role, and mission performance. This pattern challenges conventional wisdom that both increased communication and higher trust in automation independently lead to better team outcomes. While this reduced communication might reflect efficiency, it could also indicate subtle changes in team dynamics that deserve closer attention.&lt;/p&gt;
+&lt;p&gt;This research opens new questions about how trust shapes team processes and how we should design and evaluate autonomous systems that truly enhance rather than disrupt effective team dynamics.&lt;/p&gt;
+&lt;p&gt;This project was accepted for publication at HFES in 2024 and was nominated for the prestigious Alphonse Chapanis best paper award. It is available &lt;a href=&#34;https://journals.sagepub.com/doi/10.1177/10711813241262991?icid=int.sj-abstract.citing-articles.33&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;div style=&#34;margin-top: 2em; text-align: center; font-size: 1.1em;&#34;&gt;
-  &lt;strong&gt;Interested in collaborating or learning more about entropy?&lt;/strong&gt;&lt;br&gt;
+  &lt;strong&gt;Interested in collaborating?&lt;/strong&gt;&lt;br&gt;
+  &lt;a href=&#34;mailto:tkara.mullin@ucf.edu&#34;&gt;Reach out via email&lt;/a&gt; or 
+  &lt;a href=&#34;https://www.linkedin.com/in/tkara-mullins/&#34;&gt;connect with me on Linkedin&lt;/a&gt;.
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Interdependent Privacy on TikTok</title>
+      <link>http://localhost:1313/project/tiktok/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tiktok/</guid>
+      <description>&lt;p style=&#34;text-indent: 2em;&#34;&gt; This project looked into how people share hidden, stigmatized aspects of themselves and others on social media platforms. These concealable stigmatized identities (CSIs) are increasingly being revealed online, but we know surprisingly little about what this content looks like or how others respond to it—especially when comparing self-disclosure versus disclosing someone else&#39;s identity, or when dealing with conditions that carry different levels of social stigma.&lt;/p&gt;
+&lt;p&gt;To tackle these questions, we collected a dataset with 2,042 TikTok videos and their 111,705 comments from popular mental health hashtags (#clinicaldepression, #depression, and #schizophrenia). We manually coded each video for disclosure types while using natural language processing to analyze comment sentiment, then built mixed-effects regression models to uncover key patterns.&lt;/p&gt;
+&lt;p&gt;Our findings revealed some fascinating dynamics. People were much more likely to disclose their own CSI when posting under less stigmatized hashtags (like #depression) compared to more stigmatized ones (like #schizophrenia). Conversely, when videos appeared under more stigmatized hashtags, they were more likely to contain disclosures about other people&amp;rsquo;s conditions rather than self-disclosures.&lt;/p&gt;
+&lt;p&gt;We also discovered a &amp;ldquo;contagion effect&amp;rdquo; in the comments—if an original video disclosed someone else&amp;rsquo;s CSI, commenters were more likely to follow suit by revealing others&amp;rsquo; conditions too.&lt;/p&gt;
+&lt;p&gt;The feedback patterns were equally revealing. While mental health content generally received positive responses, videos containing any form of disclosure got significantly more positive feedback than those without disclosures. However, there&amp;rsquo;s an important distinction: posts where people revealed their own CSIs received more positive feedback than those disclosing someone else&amp;rsquo;s condition.&lt;/p&gt;
+&lt;p&gt;This work has important implications for understanding privacy boundaries in social media spaces, especially regarding sensitive health information that affects multiple people. We&amp;rsquo;re exploring what these findings mean for both individual disclosure decisions and the broader landscape of &amp;ldquo;interdependent privacy&amp;rdquo; in digital spaces.&lt;/p&gt;
+&lt;p&gt;This project was accepted to computer supported cooperative work (CSCW) and will be available online in 2025!&lt;/p&gt;
+&lt;div style=&#34;margin-top: 2em; text-align: center; font-size: 1.1em;&#34;&gt;
+  &lt;strong&gt;Interested in collaborating?&lt;/strong&gt;&lt;br&gt;
   &lt;a href=&#34;mailto:tkara.mullin@ucf.edu&#34;&gt;Reach out via email&lt;/a&gt; or 
   &lt;a href=&#34;https://www.linkedin.com/in/tkara-mullins/&#34;&gt;connect with me on Linkedin&lt;/a&gt;.
 &lt;/div&gt;</description>
@@ -130,16 +118,50 @@
       <description>&lt;figure style=&#34;text-align: center; margin: 0 auto;&#34;&gt;
   &lt;img src=&#34;rqa_example.png&#34; alt=&#34;RQA Example&#34; style=&#34;max-width: 100%; height: auto;&#34;&gt;
   &lt;figcaption style=&#34;margin-top: 0.5em; font-style: italic;&#34;&gt;
-    These recurrence plots show how patterns of coordination unfolded differently over time for two participants.
+    These simulated recurrence plots show how patterns of coordination unfolded differently over time for two participants. The colored areas in the plot represent moments in time when the participants were in a repeated shared state (e.g., one person&#39;s HR was high while the other&#39;s was low and this state happened before) while the empty spaces represent when they were in a new state. The key on the right indicates which unique pattern they were in (e.g., both were high, both were low, one was high while the other was low, etc.). Comparing the two plots visually you can see that the team on the left occupied different patterns (predominatly purple and green) than the team on the right (e.g., predominately orange and purple). 
   &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p style=&#34;text-indent: 2em;&#34;&gt; My research explores how teams function as complex adaptive systems—meaning they’re made up of many interconnected parts that interact and evolve over time. One of the biggest challenges in this work is figuring out how to represent a team. Some researchers focus on individual members and how their behaviors influence the group, while others model the team as a single unit to study how it functions as a whole. Each approach has its strengths and trade-offs. &lt;/p&gt;
 &lt;p&gt;On top of choosing the right modeling technique, my team is especially interested in working with large, complex datasets. For example, in one project, we collected heart rate, posture, activity, and log file data at 32 samples per second over one hour from 14 participants. That’s &lt;strong&gt;8,064,000 data points&lt;/strong&gt; per session! And because we ran this twice a day for ten days, we ended up with over &lt;strong&gt;161 million data points&lt;/strong&gt; in total.&lt;/p&gt;
-&lt;p&gt;Working with this kind of data is no small task. It comes from many people, sensors, and systems—and it&amp;rsquo;s often messy or incomplete. Traditional methods usually require lots of cleaning and reshaping before you can even start analyzing. To tackle this, I partnered with Aaron Necaise and &lt;a href=&#34;https://luddy.indiana.edu/contact/profile/index.html?Mary~Jean_Amon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Mary Jean Amon&lt;/a&gt; to develop a more flexible approach to &lt;strong&gt;joint recurrence quantification analysis&lt;/strong&gt;, or jRQA, that handles imperfect data with fewer assumptions. jRQA is a technique for detecting shared patterns across time in multiple time series, revealing how systems evolve together. You can see an example of traditional RQA in the image above. Our new method starts by analyzing each team member on their own and then looks at how their behavior relates to others over time—drawing on both individual and team-level modeling strategies.&lt;/p&gt;
-&lt;p&gt;This makes it easier to uncover complex team dynamics, even when people are playing different roles or interacting in very different ways.&lt;/p&gt;
+&lt;p&gt;Working with this kind of data is no small task. It comes from many people, sensors, and systems—and it&amp;rsquo;s often messy or incomplete. Traditional methods usually require lots of cleaning and reshaping before you can even start analyzing. To tackle this, I partnered with &lt;a href=&#34;https://scholar.google.com/citations?user=IybuqwUAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aaron Necaise&lt;/a&gt; and &lt;a href=&#34;https://luddy.indiana.edu/contact/profile/index.html?Mary~Jean_Amon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Mary Jean Amon&lt;/a&gt; to develop a more flexible approach to &lt;strong&gt;joint recurrence quantification analysis&lt;/strong&gt;, or jRQA, that handles imperfect data with fewer assumptions. jRQA is a technique for detecting shared patterns across time in multiple time series, revealing how systems evolve in relation to each other. You can see an example of a recurrence plot from traditional RQA in the image above.&lt;/p&gt;
+&lt;p&gt;Our new method starts by modeling each team member their own nonlinear system. We analyze each team member on their own and then look at how their behavior relates to others over time—drawing on both individual and team-level modeling strategies. This makes it easier to uncover complex team dynamics, even when people are playing different roles or interacting in very different ways.&lt;/p&gt;
 &lt;p&gt;This project is still in progress, but we’re excited to share more soon—we’re aiming to submit the full paper in 2025!&lt;/p&gt;
 &lt;div style=&#34;margin-top: 2em; text-align: center; font-size: 1.1em;&#34;&gt;
   &lt;strong&gt;Interested in collaborating or learning more about jRQA?&lt;/strong&gt;&lt;br&gt;
+  &lt;a href=&#34;mailto:tkara.mullin@ucf.edu&#34;&gt;Reach out via email&lt;/a&gt; or 
+  &lt;a href=&#34;https://www.linkedin.com/in/tkara-mullins/&#34;&gt;connect with me on Linkedin&lt;/a&gt;.
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>LUNAres</title>
+      <link>http://localhost:1313/project/lunares/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/lunares/</guid>
+      <description>&lt;p&gt;In our latest research project, &lt;a href=&#34;https://www.linkedin.com/in/andres-k%C3%A4osaar-322760b5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andres Käosaar&lt;/a&gt; and I examined how we can use physiological data to understand team coordination in extreme environments. We looked at how coordinated responses to challenges impacted stress and daily emotions for crew-members on a space analog mission, using team members&amp;rsquo; heart rates synchronization as a proxy for coordination.&lt;/p&gt;
+&lt;p&gt;We partenred with the &lt;a href=&#34;https://lunares.space/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LunAres Research Station&lt;/a&gt; where crews participate in two-week long space analog missions, complete with simulated EVAs (extravehicular activities) that demand precise coordination in pressurized suits. By capturing continuous heart rate data from team members during these high-stakes activities, we gained access to a fascinating window into their shared physiological responses.&lt;/p&gt;
+&lt;p&gt;It may come as no surprise that we grounded our analysis in nonlinear dynamical systems theory. Rather than simply averaging heart rates or looking at isolated spikes, we applied &lt;strong&gt;Cross-Recurrence Quantification Analysis&lt;/strong&gt; (cRQA) to identify moments when team members&amp;rsquo; heart rate patterns aligned. These recurrence patterns reveal coordination that might not be visible through traditional measures. By examining metrics like recurrence rate alongside subjective reports of stress and emotion, we&amp;rsquo;re piecing together a more complete picture of team dynamics in extreme conditions.&lt;/p&gt;
+&lt;p&gt;One of the most intriguing aspects of this work is what it might mean for real space missions. As we prepare for extended missions to the Moon and Mars, understanding how crews maintain coordination under pressure becomes increasingly vital. Physiological synchrony might offer an objective, real-time measure that could help mission control identify when interventions are needed.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re still analyzing the full dataset, but the preliminary findings suggest that heart rate synchronization relates to both stress and emotional experiences during EVAs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UPDATE!&lt;/strong&gt; A sneak peek into this project is in pre-print and will be presented at &lt;a href=&#34;https://www.ingroup.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INGRoup 2025&lt;/a&gt;!&lt;/p&gt;
+&lt;div style=&#34;margin-top: 2em; text-align: center; font-size: 1.1em;&#34;&gt;
+  &lt;strong&gt;Interested in collaborating or learning more about ICE teams?&lt;/strong&gt;&lt;br&gt;
+  &lt;a href=&#34;mailto:tkara.mullin@ucf.edu&#34;&gt;Reach out via email&lt;/a&gt; or 
+  &lt;a href=&#34;https://www.linkedin.com/in/tkara-mullins/&#34;&gt;connect with me on Linkedin&lt;/a&gt;.
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Macrocognition and AI</title>
+      <link>http://localhost:1313/project/mitm_ai/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/mitm_ai/</guid>
+      <description>&lt;p&gt;The macrocognition in teams model developed by Dr. Stephen Fiore provides a framework for understanding how teams build and share knowledge. This model identifies the cognitive processes involved in effective teamwork—connecting individual knowledge building to team knowledge building through various explicit and implicit mechanisms. It has been applied in multiple contexts including military operations, healthcare teams, and emergency response settings, offering researchers a structured way to analyze team cognition.&lt;/p&gt;
+&lt;p&gt;However, applying this model to analyze team interactions presents significant practical challenges. The current approach to coding team transcriptions using Fiore&amp;rsquo;s framework is extremely labor-intensive and costly. It requires trained coders to meticulously examine communication patterns, identify specific cognitive mechanisms, and track their evolution throughout team interactions—a process that can take weeks for even modest amounts of data.&lt;/p&gt;
+&lt;p&gt;Together, Dr. Fiore and I are setting out to make this analytical approach more accessible through artificial intelligence. By developing an AI-assisted coding system for team transcripts, we aim to substantially reduce the time and resources needed to apply this framework. This would make using the model more practical, hopefully expanding what we can accomplish in terms of understanding and improving team dynamics.&lt;/p&gt;
+&lt;p&gt;As this project is just getting underway, more specific details about methodology and preliminary results will be forthcoming.&lt;/p&gt;
+&lt;div style=&#34;margin-top: 2em; text-align: center; font-size: 1.1em;&#34;&gt;
+  &lt;strong&gt;Interested in collaborating?&lt;/strong&gt;&lt;br&gt;
   &lt;a href=&#34;mailto:tkara.mullin@ucf.edu&#34;&gt;Reach out via email&lt;/a&gt; or 
   &lt;a href=&#34;https://www.linkedin.com/in/tkara-mullins/&#34;&gt;connect with me on Linkedin&lt;/a&gt;.
 &lt;/div&gt;</description>
@@ -150,41 +172,28 @@
       <link>http://localhost:1313/project/minerva/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/minerva/</guid>
-      <description>&lt;figure style=&#34;text-align: center; margin: 0 auto;&#34;&gt;
-  &lt;img src=&#34;rqa_example.png&#34; alt=&#34;RQA Example&#34; style=&#34;max-width: 100%; height: auto;&#34;&gt;
-  &lt;figcaption style=&#34;margin-top: 0.5em; font-style: italic;&#34;&gt;
-    These recurrence plots show how patterns of coordination unfolded differently over time for two participants.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;For this project,&lt;/p&gt;
-&lt;p&gt;We are currently collecting data for this project.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;More details coming soon.&lt;/strong&gt;&lt;/p&gt;
 &lt;div style=&#34;margin-top: 2em; text-align: center; font-size: 1.1em;&#34;&gt;
-  &lt;strong&gt;Interested in collaborating or learning more about entropy?&lt;/strong&gt;&lt;br&gt;
+  &lt;strong&gt;Interested in collaborating?&lt;/strong&gt;&lt;br&gt;
   &lt;a href=&#34;mailto:tkara.mullin@ucf.edu&#34;&gt;Reach out via email&lt;/a&gt; or 
   &lt;a href=&#34;https://www.linkedin.com/in/tkara-mullins/&#34;&gt;connect with me on Linkedin&lt;/a&gt;.
 &lt;/div&gt;</description>
     </item>
     
     <item>
-      <title>Stigmatized Identities Online</title>
-      <link>http://localhost:1313/project/tiktok/</link>
+      <title>SampEn</title>
+      <link>http://localhost:1313/project/sampen/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/tiktok/</guid>
-      <description>&lt;figure style=&#34;text-align: center; margin: 0 auto;&#34;&gt;
-  &lt;img src=&#34;rqa_example.png&#34; alt=&#34;RQA Example&#34; style=&#34;max-width: 100%; height: auto;&#34;&gt;
-  &lt;figcaption style=&#34;margin-top: 0.5em; font-style: italic;&#34;&gt;
-    These recurrence plots show how patterns of coordination unfolded differently over time for two participants.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p style=&#34;text-indent: 2em;&#34;&gt; This project looked into how people share hidden, stigmatized aspects of themselves and others on social media platforms. These concealable stigmatized identities (CSIs) are increasingly being revealed online, but we know surprisingly little about what this content looks like or how others respond to it—especially when comparing self-disclosure versus disclosing someone else&#39;s identity, or when dealing with conditions that carry different levels of social stigma.&lt;/p&gt;
-&lt;p&gt;To tackle these questions, we collected a dataset with 2,042 TikTok videos and their 111,705 comments from popular mental health hashtags (#clinicaldepression, #depression, and #schizophrenia). We manually coded each video for disclosure types while using natural language processing to analyze comment sentiment, then built mixed-effects regression models to uncover key patterns.&lt;/p&gt;
-&lt;p&gt;Our findings revealed some fascinating dynamics. People were much more likely to disclose their own CSI when posting under less stigmatized hashtags (like #depression) compared to more stigmatized ones (like #schizophrenia). Conversely, when videos appeared under more stigmatized hashtags, they were more likely to contain disclosures about other people&amp;rsquo;s conditions rather than self-disclosures.&lt;/p&gt;
-&lt;p&gt;We also discovered a &amp;ldquo;contagion effect&amp;rdquo; in the comments—if an original video disclosed someone else&amp;rsquo;s CSI, commenters were more likely to follow suit by revealing others&amp;rsquo; conditions too.&lt;/p&gt;
-&lt;p&gt;The feedback patterns were equally revealing. While mental health content generally received positive responses, videos containing any form of disclosure got significantly more positive feedback than those without disclosures. However, there&amp;rsquo;s an important distinction: posts where people revealed their own CSIs received more positive feedback than those disclosing someone else&amp;rsquo;s condition.&lt;/p&gt;
-&lt;p&gt;This work has important implications for understanding privacy boundaries in social media spaces, especially regarding sensitive health information that affects multiple people. We&amp;rsquo;re exploring what these findings mean for both individual disclosure decisions and the broader landscape of &amp;ldquo;interdependent privacy&amp;rdquo; in digital spaces.&lt;/p&gt;
-&lt;p&gt;This project was accepted to computer supported cooperative work (CSCW) and will be available online in 2025!&lt;/p&gt;
+      <guid>http://localhost:1313/project/sampen/</guid>
+      <description>&lt;p&gt;For this project, I partnered with &lt;a href=&#34;https://www.linkedin.com/in/andres-k%C3%A4osaar-322760b5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andres Käosaar&lt;/a&gt; to explore how astronaut teams function under extreme conditions, specifically focusing on the emotional patterns that emerge during space missions and simulated space environments. This work addresses a critical challenge for future Mars missions, where NASA will rely on teams operating in isolated, confined, and extreme (ICE) conditions for extended periods.&lt;/p&gt;
+&lt;p&gt;While emotions clearly impact team performance, decision-making, creativity, and overall effectiveness, the tools we&amp;rsquo;ve been using to study them (particularly in ICE environments) have significant limitations. Traditional approaches to monitoring teamwork issues often miss the dynamic nature of emotions.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s where nonlinear dyanamical systems theory comes in. We&amp;rsquo;ve applied Sample Entropy (SampEn), a technique that quantifies how predictable emotional patterns are over time. Unlike conventional methods that reduce complex emotional data to simple averages, SampEn preserves the natural fluctuations and temporal complexity of how feelings evolve within teams.&lt;/p&gt;
+&lt;p&gt;Our dataset was particularly robust. We analyzed emotional expression data from journal entries and communication recordings across four different space analog environments. This diversity allowed us to draw more generalizable conclusions about how emotions functioned in these extreme settings.&lt;/p&gt;
+&lt;p&gt;The study explores a fascinating tension: on one hand, more complex emotional patterns might indicate healthier team functioning, as adaptive systems typically show natural variability rather than rigid patterns. On the other hand, &amp;ldquo;psychological hibernation&amp;rdquo; (a flattening of emotional expression) might actually be beneficial in ICE environments specifically, serving as a coping mechanism for prolonged isolation.&lt;/p&gt;
+&lt;p&gt;This research represents the first application of SampEn to analyze emotional states in ICE teams, offering a more ecologically valid picture of how team members&amp;rsquo; feelings unfold and impact their collective functioning. By capturing these nonlinear dynamics, we&amp;rsquo;re revealing patterns that traditional analyses would likely miss—potentially transforming how we monitor and support astronaut teams on future missions to the Moon and Mars.&lt;/p&gt;
+&lt;p&gt;This project is still in progress, but we’re excited to share more soon—we’re aiming to submit the full paper in 2025!&lt;/p&gt;
 &lt;div style=&#34;margin-top: 2em; text-align: center; font-size: 1.1em;&#34;&gt;
-  &lt;strong&gt;Interested in collaborating or learning more about concealable stigmatized identities?&lt;/strong&gt;&lt;br&gt;
+  &lt;strong&gt;Interested in collaborating?&lt;/strong&gt;&lt;br&gt;
   &lt;a href=&#34;mailto:tkara.mullin@ucf.edu&#34;&gt;Reach out via email&lt;/a&gt; or 
   &lt;a href=&#34;https://www.linkedin.com/in/tkara-mullins/&#34;&gt;connect with me on Linkedin&lt;/a&gt;.
 &lt;/div&gt;</description>

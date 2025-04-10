@@ -1,6 +1,6 @@
 ---
-title: Isolated, Confined, and Extreme Teams- SampEn
-summary: Applying nonlinear dynamics to monitor emotions during analog space flights. 
+title: SampEn
+summary: What can the predictability of emotions during analog space flights tell us? 
 date: 2023-10-24
 type: docs
 math: false
@@ -8,20 +8,13 @@ tags:
   - active
 ---
 
-<figure style="text-align: center; margin: 0 auto;">
-  <img src="rqa_example.png" alt="RQA Example" style="max-width: 100%; height: auto;">
-  <figcaption style="margin-top: 0.5em; font-style: italic;">
-    These recurrence plots show how patterns of coordination unfolded differently over time for two participants.
-  </figcaption>
-</figure>
-
 For this project, I partnered with [Andres Käosaar](https://www.linkedin.com/in/andres-k%C3%A4osaar-322760b5/) to explore how astronaut teams function under extreme conditions, specifically focusing on the emotional patterns that emerge during space missions and simulated space environments. This work addresses a critical challenge for future Mars missions, where NASA will rely on teams operating in isolated, confined, and extreme (ICE) conditions for extended periods.
 
-While emotions clearly impact team performance, decision-making, creativity, and overall effectiveness, the tools we've been using to study them (particularly in ICE environments) have significant limitations. Traditional approaches to monitoring teamwork issues typically depend on self-reported surveys or ambiguous physiological markers, which often miss the dynamic nature of emotions.
+While emotions clearly impact team performance, decision-making, creativity, and overall effectiveness, the tools we've been using to study them (particularly in ICE environments) have significant limitations. Traditional approaches to monitoring teamwork issues often miss the dynamic nature of emotions.
 
 That's where nonlinear dyanamical systems theory comes in. We've applied Sample Entropy (SampEn), a technique that quantifies how predictable emotional patterns are over time. Unlike conventional methods that reduce complex emotional data to simple averages, SampEn preserves the natural fluctuations and temporal complexity of how feelings evolve within teams.
 
-Our dataset is particularly robust. We collected emotional expression data from journal entries and communication recordings across four different space analog environments. This diversity allows us to draw more generalizable conclusions about how emotions function in extreme settings.
+Our dataset was particularly robust. We analyzed emotional expression data from journal entries and communication recordings across four different space analog environments. This diversity allowed us to draw more generalizable conclusions about how emotions functioned in these extreme settings.
 
 The study explores a fascinating tension: on one hand, more complex emotional patterns might indicate healthier team functioning, as adaptive systems typically show natural variability rather than rigid patterns. On the other hand, "psychological hibernation" (a flattening of emotional expression) might actually be beneficial in ICE environments specifically, serving as a coping mechanism for prolonged isolation.
 
@@ -31,7 +24,7 @@ This project is still in progress, but we’re excited to share more soon—we�
 
 
 <div style="margin-top: 2em; text-align: center; font-size: 1.1em;">
-  <strong>Interested in collaborating or learning more about entropy?</strong><br>
+  <strong>Interested in collaborating?</strong><br>
   <a href="mailto:tkara.mullin@ucf.edu">Reach out via email</a> or 
   <a href="https://www.linkedin.com/in/tkara-mullins/">connect with me on Linkedin</a>.
 </div>
