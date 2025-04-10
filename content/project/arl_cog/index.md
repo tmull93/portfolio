@@ -12,7 +12,7 @@ In this study, Dr. Fiore and I took a new approach to how we evaluate autonomous
 
 We partnered with the U.S. Army at the [DEVCOM Research Laboratory](https://arl.devcom.army.mil/) to study 28 military personnel during simulated combat missions, complete with a high-visual fidelity simulated environment, manned combat vehicles with real user interfaces (steering wheel, pedals, buttons, etc) and robotic combat vehicles. They completed missions both with and without an automated decision support system that provided task-switching cues and flexible task allocation capabilities to assist team coordination.
 
-What makes our approach distinctive is the focus on cognitive efficiency—measuring whether performance gains justified the mental demands imposed by the technology. Instead of treating workload reduction as the primary goal, we examined how resources invested by team members translated into mission outcomes.
+What makes our approach distinctive is the focus on cognitive efficiency. We measure whether performance gains justified the mental demands imposed by the technology. Instead of treating workload reduction as the primary goal, we examined how resources invested by team members translated into mission outcomes.
 
 The results revealed something fascinating. Teams using the autonomous support achieved higher cognitive efficiency scores, indicating better performance relative to their mental workload. However, these benefits weren't uniform—they varied significantly between different roles and groups.
 

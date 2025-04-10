@@ -22,7 +22,7 @@ We're still analyzing the full dataset, but the preliminary findings suggest tha
 
 
 <div style="margin-top: 2em; text-align: center; font-size: 1.1em;">
-  <strong>Interested in collaborating or learning more about ICE teams?</strong><br>
+  <strong>Interested in collaborating?</strong><br>
   <a href="mailto:tkara.mullin@ucf.edu">Reach out via email</a> or 
   <a href="https://www.linkedin.com/in/tkara-mullins/">connect with me on Linkedin</a>.
 </div>

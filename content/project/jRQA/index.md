@@ -15,7 +15,7 @@ tags:
   </figcaption>
 </figure>
 
-<p style="text-indent: 2em;"> My research explores how teams function as complex adaptive systems—meaning they’re made up of many interconnected parts that interact and evolve over time. One of the biggest challenges in this work is figuring out how to represent a team. Some researchers focus on individual members and how their behaviors influence the group, while others model the team as a single unit to study how it functions as a whole. Each approach has its strengths and trade-offs. </p>
+<p style="text-indent: 2em;"> My research explores how teams function as complex adaptive systems. This just means they’re made up of many interconnected parts that interact and evolve over time. One of the biggest challenges in this work is figuring out how to represent a team. Some researchers focus on individual members and how their behaviors influence the group, while others model the team as a single unit to study how it functions as a whole. Each approach has its strengths and trade-offs. </p>
 
 On top of choosing the right modeling technique, my team is especially interested in working with large, complex datasets. For example, in one project, we collected heart rate, posture, activity, and log file data at 32 samples per second over one hour from 14 participants. That’s **8,064,000 data points** per session! And because we ran this twice a day for ten days, we ended up with over **161 million data points** in total.
 
@@ -27,7 +27,7 @@ This project is still in progress, but we’re excited to share more soon—we�
 
 
 <div style="margin-top: 2em; text-align: center; font-size: 1.1em;">
-  <strong>Interested in collaborating or learning more about jRQA?</strong><br>
+  <strong>Interested in collaborating?</strong><br>
   <a href="mailto:tkara.mullin@ucf.edu">Reach out via email</a> or 
   <a href="https://www.linkedin.com/in/tkara-mullins/">connect with me on Linkedin</a>.
 </div>

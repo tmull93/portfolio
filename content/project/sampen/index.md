@@ -18,7 +18,7 @@ Our dataset was particularly robust. We analyzed emotional expression data from 
 
 The study explores a fascinating tension: on one hand, more complex emotional patterns might indicate healthier team functioning, as adaptive systems typically show natural variability rather than rigid patterns. On the other hand, "psychological hibernation" (a flattening of emotional expression) might actually be beneficial in ICE environments specifically, serving as a coping mechanism for prolonged isolation.
 
-This research represents the first application of SampEn to analyze emotional states in ICE teams, offering a more ecologically valid picture of how team members' feelings unfold and impact their collective functioning. By capturing these nonlinear dynamics, we're revealing patterns that traditional analyses would likely miss—potentially transforming how we monitor and support astronaut teams on future missions to the Moon and Mars. 
+This research represents the first application of SampEn to analyze emotional states in ICE teams, offering a more ecologically valid picture of how team members' feelings unfold and impact their collective functioning. By capturing these nonlinear dynamics, we're revealing patterns that traditional analyses would likely miss which, we hope, will be used to support astronaut teams on future missions to the Moon and Mars. 
 
 This project is still in progress, but we’re excited to share more soon—we’re aiming to submit the full paper in 2025! 
 

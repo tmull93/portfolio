@@ -14,7 +14,7 @@ To tackle these questions, we collected a dataset with 2,042 TikTok videos and t
 
 Our findings revealed some fascinating dynamics. People were much more likely to disclose their own CSI when posting under less stigmatized hashtags (like #depression) compared to more stigmatized ones (like #schizophrenia). Conversely, when videos appeared under more stigmatized hashtags, they were more likely to contain disclosures about other people's conditions rather than self-disclosures.
 
-We also discovered a "contagion effect" in the comments—if an original video disclosed someone else's CSI, commenters were more likely to follow suit by revealing others' conditions too.
+We also discovered a "contagion effect" in the comments. If an original video disclosed someone else's CSI, commenters were more likely to follow suit by revealing others' conditions too.
 
 The feedback patterns were equally revealing. While mental health content generally received positive responses, videos containing any form of disclosure got significantly more positive feedback than those without disclosures. However, there's an important distinction: posts where people revealed their own CSIs received more positive feedback than those disclosing someone else's condition.
 

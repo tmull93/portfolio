@@ -9,9 +9,7 @@ tags:
 ---
 
 
-The macrocognition in teams model developed by Dr. Stephen Fiore provides a framework for understanding how teams build and share knowledge. This model identifies the cognitive processes involved in effective teamwork—connecting individual knowledge building to team knowledge building through various explicit and implicit mechanisms. It has been applied in multiple contexts including military operations, healthcare teams, and emergency response settings, offering researchers a structured way to analyze team cognition.
-
-However, applying this model to analyze team interactions presents significant practical challenges. The current approach to coding team transcriptions using Fiore's framework is extremely labor-intensive and costly. It requires trained coders to meticulously examine communication patterns, identify specific cognitive mechanisms, and track their evolution throughout team interactions—a process that can take weeks for even modest amounts of data.
+The macrocognition in teams model developed by Dr. Stephen Fiore provides a framework for understanding how teams build and share knowledge. This model identifies the cognitive processes involved in connecting individual knowledge building to team knowledge building through various explicit and implicit mechanisms. It has been applied in multiple contexts including military operations, healthcare teams, and emergency response settings, offering researchers a structured way to analyze team cognition.
 
 Together, Dr. Fiore and I are setting out to make this analytical approach more accessible through artificial intelligence. By developing an AI-assisted coding system for team transcripts, we aim to substantially reduce the time and resources needed to apply this framework. This would make using the model more practical, hopefully expanding what we can accomplish in terms of understanding and improving team dynamics.
 
