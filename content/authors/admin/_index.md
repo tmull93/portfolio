@@ -53,17 +53,23 @@ education:
     date_start: 2022-08-01
     date_end: ''
     summary: |
-      Supervised by [Dr. Mary Jean Amon](https://luddy.indiana.edu/contact/profile/index.html?Mary~Jean_Amon) and [Dr. Stephen Fiore](https://www.ist.ucf.edu/faculty/stephen-m-fiore-ph-d/). 
+      - Supervised by [Dr. Mary Jean Amon](https://luddy.indiana.edu/contact/profile/index.html?Mary~Jean_Amon) and [Dr. Stephen Fiore](https://www.ist.ucf.edu/faculty/stephen-m-fiore-ph-d/). 
   - area: MEng Modeling & Simulation
     institution: University of Central Florida
     date_start: 2022-08-01
     date_end: 2025-05-01
     summary: |
+      Highlights:
+      - Trustees Doctoral Fellowship
+      - I/ITSEC Leonard P. Gollobin Fellowship
   - area: MA Applied/Experimental Psychology
     institution: University of West Florida
     date_start: 2015-08-01
     date_end: 2017-07-30
     summary: |
+      Highlights:
+      - UWF's best master's thesis nominee
+      - UWF Psychology department best master's thesis
   - area: BA Psychology, Minor Criminal Justice
     institution: University of West Florida
     date_start: 2011-08-01
@@ -75,29 +81,76 @@ education:
       - Junior Excellency
 
             
-# work:
-#  - position: Director of Cloud Infrastructure
-#    company_name: GenCoin
-#    company_url: ''
-#    company_logo: ''
-#    date_start: 2021-01-01
-#    date_end: ''
-#    summary: |2-
-#      Responsibilities include:
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#  - position: Backend Software Engineer
-#    company_name: X
-#    company_url: ''
-#    company_logo: ''
-#    date_start: 2016-01-01
-#    date_end: 2020-12-31
-#    summary: |
-#      Responsibilities include:
-#      - Migrated infrastructure to a new data center
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+ - position: Graduate Researcher 
+   company_name: Cognitive Science Laboratory
+   date_start: 2022-08-01
+   date_end: ''
+   summary: |2-
+     -	Investigated teamwork dynamics during a complex problem solving task. 
+
+ - position: Graduate Researcher
+   company_name: Dynamix Lab
+   date_start: 2022-08-02
+   date_end: 2024-08-01
+   summary: |2-
+      -	Studied methods of nonlinear dynamic systems theory including fractals, wavelets, synchrony, and multidimensional recurrent quantification analysis.  
+      - Conducted qualitative and quantitative analysis using R to investigate the influence of stigmatization on people’s likelihood to reveal private health information on TikTok.  
+      -	Investigated how team dynamics evolve over time and influence overall team success with the Army Research Lab using MATLAB, python, and R.  
+
+ - position: Business Analyst
+   company_name: Universal Consulting Services  
+   date_start: 2022-08-02
+   date_end: 2024-08-01
+   summary: |2-
+      -	Supported the maintenance and development of a series of applications used to track medical readiness of Sailors and Marines.  
+      
+ - position: Testing Specialist/Statistician 
+   company_name: Universal Consulting Services  
+   date_start: 2021-08-02
+   date_end: 2022-08-01
+   summary: |2-
+      -	Researcher within the Operational Psychology lab for the Naval Aerospace Medical Institute (NAMI) working to improve the Aviation Selection Test Battery for the U.S. Navy.    
+
+ - position: Longterm Care Coordinator 
+   company_name: Sunshine Health 
+   date_start: 2019-08-02
+   date_end: 2021-08-01
+   summary: |2-
+      -	Interviewed patients with comorbid mental and physical health problems to fill care needs such as medical treatment, hospice care, and medication management services
+
+ - position: Therapist I
+   company_name: Lakeview
+   date_start: 2018-08-02
+   date_end: 2019-08-01
+   summary: |2-
+      -	Provided services to youth in individual and group settings using methods such as motivational interviewing and cognitive behavioral therapy while following a trauma informed care paradigm.
+
+ - position: Psychometrist/Cognitive Trainer
+   company_name: Learning Connections of Pensacola  
+   date_start: 2016-08-02
+   date_end: 2018-08-01
+   summary: |2-
+      -	Administered a battery of Tests of Cognitive Abilities to screen individuals for various developmental and learning delays and then led students aged 6-70 years through a structured program developed to train deficits in cognitive abilities.  
+
+ - position: Master’s Researcher  
+   company_name: Psychology Department, UWF 
+   date_start: 2015-08-01
+   date_end: 2017-07-31
+   summary: |
+     - Conducted neuropsychological research on executive function to include detection, testing methodology, individual differences, and theoretical and clinical applications. 
+     - Assistant to Dr. Vanessa Rainey conducting primary and secondary source research on EEG application and analysis and event-related potential identification. 
+     - Prepared the lab space in a vaulted EEG chamber, established EEG recording parameters, and applied the EEG electrodes to participations.
+
+ - position: Master’s Researcher 
+   company_name: Biology Department, UWF 
+   date_start: 2015-08-01
+   date_end: 2017-07-31
+   summary: |
+     - Assistant to Dr. Rodney Guttmann creating gel plates tagged with phage bacteria to identify a phage that would selectively bind to proteins to allow for early detection of Alzheimer’s disease. 
+
+      
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -160,7 +213,7 @@ awards:
 
 ## About Me
 
-I am an interdisciplinary psychologist focused on modeling, predicting, and enhancing human-computer interaction within complex team environments. Under the mentorship of Dr. Mary Jean Amon and Dr. Stephen Fiore, my research draws on nonlinear dynamical systems theory—particularly recurrence-based methods—to investigate how coordination unfolds over time to shape individual and collective outcomes, including perceptions, mental states, and performance.
+I am an interdisciplinary psychologist focused on modeling, predicting, and enhancing teamwork within complex team environments. Under the mentorship of Dr. Mary Jean Amon and Dr. Stephen Fiore, my research draws on nonlinear dynamical systems theory—particularly recurrence-based methods—to investigate how coordination unfolds over time to shape individual and collective outcomes, including perceptions, mental states, and performance.
 
 This page provides an overview of my recent work. Use the links at the top to explore my projects, publications, and philosophies in greater detail. 
 

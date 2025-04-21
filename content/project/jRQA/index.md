@@ -8,12 +8,13 @@ tags:
   - active
 ---
 
-<figure style="text-align: center; margin: 0 auto;">
-  <img src="rqa_example.png" alt="RQA Example" style="max-width: 100%; height: auto;">
+<figure style="margin: 0 auto; text-align: center;">
+  <img src="rqa_example.png" alt="RQA Example" style="display: block; margin: 0 auto; max-width: 75%; height: auto;">
   <figcaption style="margin-top: 0.5em; font-style: italic;">
-    These simulated recurrence plots show how patterns of coordination unfolded differently over time for two participants. The colored areas in the plot represent moments in time when the participants were in a repeated shared state (e.g., one person's HR was high while the other's was low and this state happened before) while the empty spaces represent when they were in a new state. The key on the right indicates which unique pattern they were in (e.g., both were high, both were low, one was high while the other was low, etc.). Comparing the two plots visually you can see that the team on the left occupied different patterns (predominatly purple and green) than the team on the right (e.g., predominately orange and purple). 
+    Simulated recurrence plots illustrating how coordination patterns between two participants evolved over time. Colored areas indicate recurring shared states (e.g., one participant's HR high while the other's low), while empty spaces reflect novel states. The color key represents different coordination patterns. Visually, the team on the left shows predominately purple and green patterns, whereas the team on the right exhibits more orange and purple, highlighting differences in their coordination dynamics.
   </figcaption>
 </figure>
+
 
 <p style="text-indent: 2em;"> My research explores how teams function as complex adaptive systems. This just means they’re made up of many interconnected parts that interact and evolve over time. One of the biggest challenges in this work is figuring out how to represent a team. Some researchers focus on individual members and how their behaviors influence the group, while others model the team as a single unit to study how it functions as a whole. Each approach has its strengths and trade-offs. </p>
 

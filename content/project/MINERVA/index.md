@@ -1,6 +1,6 @@
 ---
 title: MINERVA
-summary: Something during complex problem solving. 
+summary: Complex problem solving. 
 date: 2023-10-24
 type: docs
 math: false
