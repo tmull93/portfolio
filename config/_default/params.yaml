@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: custom
 
 # SEO
 marketing:
@@ -31,9 +31,9 @@ header:
   navbar:
     enable: true
     blox: "navbar"
-    fixed_to_top: true
-    show_search: true
-    show_theme_chooser: true
+    fixed_to_top: false
+    show_search: false
+    show_theme_chooser: false
     logo:
       text: "T'kara Mullins"
 

@@ -1,0 +1,50 @@
+#site-header.header {
+    background-color: #FFF;
+    color: black;
+    opacity: 0.5;
+    padding-top: .25rem;
+    padding-bottom: .25rem;
+}
+
+.page-header {
+    position: absolute;
+    top: 0;
+    z-index: 30;
+    width: 100%;
+    /* width: 80%; */
+    /* margin: 20px 0; */
+}
+
+h1 {
+    color: rgb(var(--color-primary-700)) !important
+}
+
+.highlight {
+    color: rgb(var(--color-primary-700)) !important;
+    font-family: "Playfair Display", serif !important;
+    font-style: italic;
+    text-align: center;
+    font-size: 2em;
+    padding: 0.75em 0;
+}
+
+.tile {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 8px 0px;
+    border-radius: .375rem;
+
+    .content {
+        padding: 0px 10px 10px 10px;
+    }
+
+    overflow-hidden.rounded-md.bg-gray-100.transition-all:hover {
+        transform: none !important;
+    }
+}
+
+.rounded-top {
+    border-radius: .375rem .375rem 0 0;
+}
+
+.tile:hover {
+    box-shadow: rgba(var(--color-primary-200)) 0px 4px 8px 0px;
+}
